@@ -1,5 +1,5 @@
 #include "main.h"
-void print_buffer(char buffer[], int *buffer_ind)
+void print_buffer(char buffer[], int *buffer_ind);
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
